@@ -1,0 +1,348 @@
+{
+  "GeneralInformation": {
+      "InstallationPath"          : "C:\\Program Files (x86)\\hxvy0\\Beatbump\\",
+      "ApplicationVersion"        : "3.2",
+      "VisitWebsiteAfterUninstall": "https://github.com/hxvy0",
+      "ApplicationName"           : "Beatbump"
+    },
+  "Folders"           : [
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\inject\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\lib\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\lib\\static\\"
+      },
+      {
+        "Path": "C:\\Users\\Enes Gozukucuk\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\hxvy0\\Beatbump\\"
+      }
+    ],
+  "Files"             : [
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\Uninstall.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\Beatbump.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\chrome_100_percent.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\chrome_200_percent.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\d3dcompiler_47.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\ffmpeg.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\icudtl.dat"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\libEGL.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\libGLESv2.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\LICENSES.chromium.html"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\snapshot_blob.bin"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\v8_context_snapshot.bin"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\version"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\vk_swiftshader.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\vk_swiftshader_icd.json"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\vulkan-1.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\af.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\am.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\ar.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\bg.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\bn.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\ca.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\cs.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\da.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\de.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\el.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\en-GB.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\en-US.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\es-419.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\es.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\et.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\fa.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\fi.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\fil.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\fr.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\gu.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\he.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\hi.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\hr.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\hu.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\id.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\it.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\ja.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\kn.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\ko.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\lt.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\lv.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\ml.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\mr.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\ms.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\nb.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\nl.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\pl.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\pt-BR.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\pt-PT.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\ro.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\ru.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\sk.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\sl.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\sr.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\sv.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\sw.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\ta.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\te.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\th.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\tr.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\uk.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\ur.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\vi.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\zh-CN.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\locales\\zh-TW.pak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\icon.ico"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\lib\\main.js"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\lib\\main.js.map"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\lib\\preload.js"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\lib\\preload.js.map"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\lib\\static\\login.css"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\lib\\static\\login.html"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\lib\\static\\login.js"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\nativefier.json"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\npm-shrinkwrap.json"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\package.json"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\hxvy0\\Beatbump\\resources\\app\\inject\\_placeholder"
+      },
+      {
+        "Path": "C:\\Users\\Enes Gozukucuk\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\hxvy0\\Beatbump\\Beatbump.lnk"
+      }
+    ],
+  "RegistryValues"    : [
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayIcon",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Beatbump\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "UninstallString",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Beatbump\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallDate",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Beatbump\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallLocation",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Beatbump\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "EstimatedSize",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Beatbump\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoModify",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Beatbump\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoRepair",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Beatbump\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayName",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Beatbump\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayVersion",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Beatbump\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "HelpLink",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Beatbump\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "Publisher",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Beatbump\\"
+      }
+    ]
+}
